@@ -1,4 +1,4 @@
-## Hi there 👋
+## The website is hosted from HMI repo and not Hybrimoto repo 
 
 <!--
 **HybriMoto/Hybrimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
